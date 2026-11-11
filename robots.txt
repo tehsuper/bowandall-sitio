@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://bowandall.mx/sitemap.xml
+Sitemap: https://www.bowandall.mx/sitemap.xml
